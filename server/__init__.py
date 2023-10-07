@@ -1,2 +1,2 @@
 
-# I have my dirty mind @LazyDeveloperr & @creatorrio 😎😍
+# I have my Smart mind @Itz_me_444
