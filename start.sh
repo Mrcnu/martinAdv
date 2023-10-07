@@ -1,4 +1,4 @@
-if [ -z $UPSTREAM_REPO ]
+if [ -z "$UPSTREAM_REPO" ]
 then
   echo "Cloning main Repository"
   git clone https://github.com/yogi444/MARTIN-BOT-2.git /MARTIN-BOT-2
