@@ -1,1 +1,1 @@
-# I hate my Dirty-Mind @LazyDeveloperr & @creatorrio 😎😍
+# I hate my Smart Mind @Itz_me_444
